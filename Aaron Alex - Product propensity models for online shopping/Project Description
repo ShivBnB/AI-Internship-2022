@@ -1,1 +1,42 @@
+Product propensity models for online shopping
+
+1) About the problem:
+
+  What is the problem?
+
+    Online shops are nowadays being neglected and most customers would rather go in person to buy most products. 
+    It takes too much effort to find the product they need, websites have not adapted enough to catch the attention spans of the current generation.
+
+  What causes the problem?
+
+	  Most e-commerce websites usually display all catalogs of products that they have for sale,
+    although from a customer’s point of view this can sometimes be overwhelming as they have to navigate through a cluttered user interface.
+
+
+2)The Solution:
+
+  What is product propensity?
+
+    Product propensity is a model that is able to predict the chance that a customer on an e-commerce website purchases
+    a specific product based on previous data and features collected containing; past purchases, profile customizations, viewed products, etc.
+
+  How is this implemented into online shopping?
+
+    The model can be used to gather certain inclinations that each customer may have and create a webpage that is tailored to their product preferences.
+
+  How will this solve the problem?
+
+    The new customer-specific pages will let users access more products that they will be more inclined to buy right on the home page,
+    this will allow for fewer clicks which will result in more sales for the company overall, and it will also boost customer satisfaction
+    as they will be appreciative of the quick and efficient product recommendation that is tailored to them specifically.
+
+
+3) How does AI help in making this possible:
+
+	Artificial intelligence is applied here by first carrying out data collection. This consists of features such as clicks on certain products, 
+  if a user added an item to their basket, if they clicked on a product’s estimated delivery time, and much more.
+  Once sufficient data is collected an algorithm can be trained to create a model that can predict what a customer would desire.
+  
+	The whole process would be automated as and when customers purchase or view different products the algorithm will learn and 
+  adapt its parameters to display the right products on the user’s screen. 
 
