@@ -34,9 +34,9 @@ Product propensity models for online shopping
 3) How does AI help in making this possible:
 
 	Artificial intelligence is applied here by first carrying out data collection. This consists of features such as clicks on certain products, 
-  if a user added an item to their basket, if they clicked on a product’s estimated delivery time, and much more.
-  Once sufficient data is collected an algorithm can be trained to create a model that can predict what a customer would desire.
+  	if a user added an item to their basket, if they clicked on a product’s estimated delivery time, and much more.
+	Once sufficient data is collected an algorithm can be trained to create a model that can predict what a customer would desire.
   
 	The whole process would be automated as and when customers purchase or view different products the algorithm will learn and 
-  adapt its parameters to display the right products on the user’s screen. 
+  	adapt its parameters to display the right products on the user’s screen. 
 
