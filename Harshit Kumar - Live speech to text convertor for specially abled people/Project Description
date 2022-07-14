@@ -1,1 +1,27 @@
+Live speech to text convertor for specially abled people
 
+AI speech-to-text is a field in computer science that specializes in enabling computers to recognize and transcribe spoken language into text. 
+It is also called speech recognition, computer speech recognition, or automatic speech recognition (ASR).
+
+1) About the problem:
+
+What are the problems?
+
+Peripheral background sounds
+Another top speech recognition problem that needs a solution is – noise. It is everywhere! And so, it becomes the job of the ASR solution to accurately catch the speech input through unwanted sounds. 
+An ASR should be able to pick up the input’s sound waves even from a distance in a room riddled with white noise and cross-talk. Echo, for example, also adds to the imprecision. 
+Reflected sound waves from surfaces in the space distort the receptor’s ability to process the actual input unerringly.
+
+Accents and Dialects – even regular humans often have trouble understanding what someone is saying in their shared language, due to local differences in dialects 
+and accents. Programming the AI to detect all these nuances takes time and is very challenging indeed.
+
+2) The solution:
+one way to train your ASR to perform well is by seeding it through non-ideal training environments and reducing noise from the audio input before speech-to-text (STT) conversion. 
+Where user intent and localisation come into the picture, businesses need to focus on specific regions. Ideally, an ASR model pre-trained on multiple intents 
+and languages with a focus on dialects/accents is a win-win.  The speech recognition system identifies the language regardless of the speaker’s accent 
+or place of origin (dialect differs). 
+
+3) How does AI help in making this possible:
+
+The use of Artificial Intelligence here is firstly carrying out the data collection. It is a data analysis technology that is not pre-programmed explicitly.
+Based on the collection of data, an algorithm can be used to train the model that can be used to solve the problem. 
