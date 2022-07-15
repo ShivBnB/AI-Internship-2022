@@ -1,1 +1,26 @@
+The dataset used contains 25 columns of different features.
+
+The first column called "UserID" will be the unique identifier as it will be used
+to differentiate from customer to customer.
+
+  Example: a720-6b732349-a720-4862-bd21-644732 
+
+The remaining 24 columns are different features such as:
+
+  basket_icon_click        
+  basket_add_list    
+  sort_by      
+  image_picker             
+  account_page_click
+  
+  and so on..
+  
+  These features are recorded as either 0 or 1. Meaning if a customer fulfills a
+  certain feature, 1 will be assigned to that particular feature.
+  
+  Example: If a customer adds an item to their basket, the feature "basket_add_detail" will get 
+           the number 1 assigned to it. 
+           
+  
+  
 
