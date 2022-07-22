@@ -1,1 +1,91 @@
+Methodology
+
+So far we have collected the relevant data needed to train and test the model,
+Now we need to create the model. 
+
+To build a product propensity model, we first need an algorithm that will act as the base foundation from which the program can be coded.
+
+There are many algorithms that we can choose from:
+
+1) Logistic Regression
+2) Random Forest
+3) Support Vector Machine (SVM)
+4) K-Nearest Neighbour
+5) Naive Bayes
+
+Logistic Regression:
+
+Logistic regression is a process of modeling the probability of a discrete outcome given an input variable.
+The most common logistic regression models a binary outcome; something that can take two values such as true/false, yes/no, and so on.
+
+Despite its name, it is a classification model rather than a regression model. 
+Logistic regression is a simple and more efficient method for binary and linear classification problems. 
+It is a classification model, which is very easy to realize and achieves very good performance with linearly separable classes.
+
+Logistic regression has become an important tool in the discipline of machine learning. 
+It allows algorithms used in machine learning applications to classify incoming data based on historical data. 
+As additional relevant data comes in, the algorithms get better at predicting classifications within data sets.
+
+Random forest:
+
+Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique.
+
+As the name suggests, "Random Forest is a classifier that contains a number of decision trees on various
+subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset.
+
+Instead of relying on one decision tree, the random forest takes the prediction from each tree,
+and based on the majority votes of predictions, it predicts the final output.
+
+
+Support Vector Machine:
+
+Support Vector Machine or SVM is used for classification and regression problems.
+The goal of the SVM algorithm is to create the best line or decision boundary that can segregate
+n-dimensional space into classes so that we can easily put the new data point in the correct category in the future. 
+This best decision boundary is called a hyperplane.
+
+SVM chooses the extreme points/vectors that help in creating the hyperplane. 
+These extreme cases are called support vectors, and hence algorithm is termed a Support Vector Machine.
+  
+K-Nearest Neighbour:
+
+K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into
+the category that is most similar to the available categories.
+
+It stores all the available data and classifies a new data point based on the similarity.
+This means when new data appears then it can be easily classified into a well-suited category
+
+It is a non-parametric algorithm, which means it does not make any assumptions on underlying data.
+
+It is also called a lazy learner algorithm because it does not learn from the training set immediately instead
+it stores the dataset and at the time of classification, it performs an action on the dataset.
+
+
+Naive Bayes:
+The Naïve Bayes algorithm is a supervised learning algorithm, which is based on the Bayes theorem and is used for solvingclassification problems.
+It is mainly used in text classification that includes a high-dimensional training dataset.
+
+It is one of the simple and most effective Classification algorithms which helps in building fast machine learning models that can make quick predictions. 
+It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.
+
+The name comes from “Naive” as it assumes that the occurrence of a feature is independent of the occurrences of other features. 
+“Bayes” is based on the principle of the Bayes’ Theorem. It is known to determine the probability of a hypothesis with prior knowledge.
+
+Many others who have attempted to build this model have tested all algorithms and chosen the one with the greatest accuracy.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Exploratory Data Analysis (EDA):
+
+To properly understand and identify the method that will be most suitable for this project, we first have to study the data we have been given. 
+This is done through a process called Exploratory Data Analysis. 
+
+Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, spot anomalies,
+test hypotheses, and check assumptions with the help of summary statistics and graphical representations.
+
+EDA can be performed in a series of steps.
+
+Visualizing data:
+ 
+Data is visualized to better help understand the intricate details that a dataset contains and how it can be used to our advantage.
 
