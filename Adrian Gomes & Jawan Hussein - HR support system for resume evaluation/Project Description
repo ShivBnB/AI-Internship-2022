@@ -1,3 +1,6 @@
+HR support system for resume evaluation
+Advanced Predictive Analysis
+
 1) About the problem:
    . What is the problem? 
       Human resources specialists are meant to recruit, screen and interview job candidates however finding qualified and desired applicants within a pool 
@@ -14,13 +17,24 @@
    . What is Resume evaluation
       Resume evaluation is the process of determining whether a candidate is qualified for a role based his or her education, experience, and other information 
       captured on their resume. In layman’s terms it's a form of pattern matching between a job's requirements and the qualifications of a candidate based on their 
-      resume. This will allow data recruiters to attain information of the candidates which further aids in their decision making 
-   
-3) How does AI help in making this possible:
-
+      resume. This will allow data recruiters to attain information of the candidates which further aids in their decision making.
+      
    . What is predictive analytics?
       Predictive analytics is part of advanced analytics which predicts the future outcomes by using data from the past, data mining techniques, predictive modeling,
-      and machine learning. This allows recruitment to occur with the consideration of the education, experience, and other information within their resumes without 
-      any bias into play. further allowing a more effective recruitment process entirely
+      and machine learning.This allows recruitment to occur with the consideration of the education, experience, and other information within their resumes without 
+      any bias into play, further allowing a more effective recruitment process entirely.
+   
+3) Where does AI help i this:
+
+   How does AI help in making this possible?
+     An AI screening software would filter out the applicants who do not fit the companies criteria from data collected and narrowing down all the appliants to
+     a smaller group of qualified the best qualified candidtes with a 100% bias free algorithm. AI could filter out influenial factors like the years of experience, 
+     demographic details, expected payment ect.
+   
+     AI would greatly impact the time process it would take HR and recruiting agencies to find their ideal canditate for the job
+
+      
+
+   
       
     
