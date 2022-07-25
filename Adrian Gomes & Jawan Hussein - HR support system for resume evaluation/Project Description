@@ -1,6 +1,17 @@
+1) About the problem:
+   . What is the problem? 
+      Human resources specialists are meant to recruit, screen and interview job candidates however finding qualified and desired applicants within a pool of candidates requires thorough analysis of their experience in the field. According to a study by the National Federation of Independent Business, 87% of HR professionals could not find suitable or qualified candidates for their job openings. 
+   
+   . What causes the problem? 
+      Using data for recruiting is difficult as recruiters need to consider multiple factors to identify how the candidate would continue for the coming years withing the job as well as the long and short term outcomes 
+      Bias in employee recruiting is also highly prevalent in the recruiting process and may impede in identifying whether or not candidates are fit for the job
 
-2) What is predictive analytics?
+2) Solution:
 
+   . What is Resume evaluation
+   Resume evaluation is the process of determining whether a candidate is qualified for a role based his or her education, experience, and other information captured on their resume. In layman’s terms it's a form of pattern matching between a job's requirements and the qualifications of a candidate based on their resume. This will allow data recruiters to attain information of the candidates which further aids in their decision making 
+   
+   . What is predictive analytics?
    Predictive analytics is part of advanced analytics which predicts the future outcomes by using data from the past, data mining techniques, predictive modeling, and machine learning.
 
     
