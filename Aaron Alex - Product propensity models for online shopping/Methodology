@@ -85,15 +85,20 @@ test hypotheses, and check assumptions with the help of summary statistics and g
 
 EDA can be performed in a series of steps.
 
+1) Visualizing data
+2) Finding similarities/correlations
+3) Eliminating redundant data/features
+
+
 Visualizing data:
  
 Data is visualized to better help understand the intricate details that a dataset contains and how it can be used to our advantage.
-
 This can be done by using graphs and heatmaps.
 
 Correlations:
  
-Correlations can be found upon visualizing data. In this case, some features are less correlated which will make them redundant.
+Correlations can be found upon visualizing data.
+In this case, some features are less correlated which will make them redundant.
 
 Redundant data:
 
