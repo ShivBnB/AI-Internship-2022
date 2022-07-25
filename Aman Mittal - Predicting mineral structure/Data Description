@@ -1,2 +1,3 @@
 The dataset being utilised consists of 140 columns of different attributes. 
 The first column used, titles ‘Name’, acts as the primary key / unique identifier of the dataset. It allows the data to be differentiated for each mineral.
+The prediction column will be the 'Name' column. 
