@@ -5,10 +5,6 @@ Self-Driving Cars
 What is the problem?
 Every year, traffic accidents account for 2.2% of global deaths. That stacks up to roughly 1.3 million a year — 3,287 a day. On top of this, some 20–50 million people are seriously injured in auto-related accidents each year.
 
-What are the causes of the problem?
-The root of these accidents are from human error.
-From distracted driving to drunk driving to reckless driving to careless driving, one poor or inattentive decision could be the difference between a typical drive and a life-threatening situation. But what if we could neutralize human error from the equation?
-
 2) The solution:
 
 What are self-driving cars ?
@@ -16,7 +12,7 @@ A self-driving automobile is a vehicle that navigates between destinations witho
 and artificial intelligence (AI). A vehicle must be capable of navigating to a predefined location across roads that have notbeen 
 modified for its usage in order to be considered completely autonomous.
 
-3) How does AI help in making this possible:
-
-The AI simulates human perceptual and decision-making processes using deep learning and controls actions in driver control systems, such as steering and brakes.
-AI can improve the quality of crash data collection and analysis, provide insights on how to avert collisions, and improve the response after crashes. The resulting insights can, in turn, help shape more effective regulatory frameworks for road safety.
+How can we implment this ?
+Self driving cars are majorily implemented through the use of many sensors, actuators, complex algorithms, machine learning systems,
+and powerful processors to execute software.Autonomous cars create and maintain a map of their surroundings based on a variety of sensors situated
+in different parts of the vehicle.
