@@ -21,6 +21,6 @@ The remaining 24 columns are different features such as:
   Example: If a customer adds an item to their basket, the feature "basket_add_detail" will get 
            the number 1 assigned to it. 
            
-  
+  The column that will be the predicted column is "ordered"
   
 
