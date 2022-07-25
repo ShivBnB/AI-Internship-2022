@@ -1,1 +1,14 @@
+1. What is the problem?
 
+    Educational institutes (schools, colleges, universities) often have an official website where parents and students would oftentimes visit with queries and/or
+    complaints. Oftentimes the website may prove too difficult to navigate and/or confusing, otherwise the website would redirect the parents/students to a phone
+    call with the school's receptionists. However, in the latter case, it adds more duties to the hands of the receptionists and makes it more difficult to answer
+    numerous calls. Another problem is that parents and students may not want to call for various reasons. It may also be very inconvenient for studdents and
+    parents to be put on hold when they call.
+    
+2. What is the solution?
+
+    A probable solution could be the implementation of chatbots, especially in cases where the educational institution's administration is not available for
+    students and parents 24/7. Utilizing a chatbot, in this scenario, would mean that students and parents will no longer have to wait on hold for human assistance.
+    A chatbot can provide all relevant information on being asked a single question. Not only does it effectively eliminate the need for phone calls and any
+    potential issue it may pose for students/parents (eg. not wanting to talk due to sore throat), it also decreases the responsibilities of receptionists.
