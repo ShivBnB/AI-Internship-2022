@@ -89,3 +89,13 @@ Visualizing data:
  
 Data is visualized to better help understand the intricate details that a dataset contains and how it can be used to our advantage.
 
+This can be done by using graphs and heatmaps.
+
+Correlations:
+ 
+Correlations can be found upon visualizing data. In this case, some features are less correlated which will make them redundant.
+
+Redundant data:
+
+After making correlations, redundant data will also be discovered. 
+This can be removed as it will have no effect on the training of the model.
