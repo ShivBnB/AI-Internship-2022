@@ -1,1 +1,40 @@
+Methodology
+
+So far, based on my understanding I have collected data needed to train the model and the platform to train the model,
+now we need to create the model.
+
+To build a live speech to text convertor, we would firstly require an algorithm that will be the foundation based on which, using the a platform the program can be 
+coded.
+
+There are many platforms which can be chosen:
+
+1) Coqui
+2) SpeechBrain
+3) kaldi
+
+Coqui:
+Coqui is an Automatic speech recognition (ASR) engine which makes speech recognition technology and trained models openly available to developers.
+Coqui STT is an open-source deep-learning toolkit for training and deploying speech-to-text models.
+
+How to train the model using Coqui platform?
+
+The three basic steps to training the model are:
+
+1) Identifying and formatting the data for training 
+2) Using the dataset train the KenLM learning model using data/lm/generate_lm.py
+   A KenLM model is a library that implements two data structures for efficient language model queries, reducing both time and memory costs.
+3) Lastly, package the model
+
+Kaldi:
+Kaldi’s model can be divided into two main components:
+The first part is the Acoustic Model, which used to be a GMM but now it was wildly replaced by Deep neural networks. Model will transcribe the audio features that 
+we created into some sequence of context-dependent phonemes.
+Gaussian Mixture Model (GMM) is used to train the audio files to get the spoken word recognized.
+
+SpeechBrain:
+SpeechBrain is an open-source and all-in-one speech toolkit. It is designed to make the research and development of neural speech processing technologies easier.
+
+The training model:
+There are set of datasets known as recipies which can be used in order to train the model using SpeechBrain to perform tasks from scratch.
+The dataset can be considered to solves speech tasks as an Automated Speech Recognition.
 
