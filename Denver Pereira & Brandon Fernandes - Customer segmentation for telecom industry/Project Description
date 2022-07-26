@@ -1,11 +1,16 @@
 
 What is the problem?
-Products are not tailered and advertised in a way attractive to different types of demoographic, this causes a reduction in sales due to the lack of attention by the customer.
+Products are not tailored and advertised in a way attractive to different types of demographic, this causes a reduction in sales due to the lack of attention by the 
+customer.
 The cause.
-It is caused due to the lack of market segmenation and resources to segment the market, often times it is expensive to conduct primary research this is as, for example, data packages advertised are too general instead of specific rendering the advertising usless
+It is caused due to the lack of market segmentation and resources to segment the market, often it is expensive to conduct primary research this is as, 
+for example, data packages advertised are too general instead of specific rendering the advertising useless. There has to be a more targetted advertising
+and marketing to different segments of people who use telecommunication, for example, younger people will see more advertisements for Etisalat and Du on social media 
+while older people more on billboards and calls to upgrade their current package
 The Solution
 Customer segmentation.
-To have a more specific way of advertising and marketing the customers need to be separated based on similar characteristics, this is so advertising can be more targeted to the certain demographic to be more appealing, for higher sales
+To have a more specific way of advertising and marketing the customers need to be separated based on similar characteristics, this is so advertising can be more targeted 
+to a certain demographic to be more appealing, for higher sales
 How will we do this?
 Separating the database into clusters using unsupervised learning
 Why do we need A.I?
