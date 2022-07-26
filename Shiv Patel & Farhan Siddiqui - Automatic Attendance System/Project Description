@@ -1,12 +1,17 @@
 What is the problem?
 
-In many places such as schools, offices etc, attendance is marked manually. One person has manually check whether people are 
-absent of present and then manually mark them as such. This process is time consuming
+In many places such as schools, offices etc, attendance is marked manually. One person has to manually check whether people are 
+absent of present and then manually mark them as such. This process is time consuming.
 
 The Solution:
 
 The solution to this is to create an automated Attendance system that can use facial recognition to automatically indentify
-the person and mark that person as present.
+the person and mark that person as present. There will be a camera that takes a picture of the student/employee etc at the
+beginning of the day and then facial recognition will be used to identify who the person is. Once they are recognized, they are
+marked present
 
-
+Why do we need AI?
+Artificial Intelligence will be needed to recognize faces and identify who they are and them mark them as present. The AI's dataset
+will be the images of a certain group of people and their names, and the AI will have to be trained so that it can recognize a 
+person from the dataset when he is present in another photo.
 
